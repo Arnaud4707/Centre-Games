@@ -1,1 +1,1 @@
-# Centre-Games
+# CenterGames
